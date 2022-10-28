@@ -19,7 +19,7 @@ But please try your best to understand the concepts in English itself. If I expl
 Somethings that will help you in your job interviews, but aren't covered in the course are:
 
 ### Spoken English
-Please practice listening and speaking English. You can watch English movies in English audio (preferably without subtitles) to practice listening. And try to practice speaking in English with anyone you live with: your siblings (brother/sister) if you live at home, with your friends and classmates, or your flatmates and hostelmates if you live away from home.
+Please practice listening and speaking English. I also recommend that you listen to English songs and try to sing along with them. You can record yourself and then then practice to sound like the original singer. This will improve your fluency, your accent as well as your overall comfort in speaking English. You can watch English movies in English audio (preferably without subtitles) to practice listening. And try to practice speaking in English with anyone you live with: your siblings (brother/sister) if you live at home, with your friends and classmates, or your flatmates and hostelmates if you live away from home.
 
 ### Touch Typing
 Touch typing means typing without looking at the keyboard. It helps in avoiding typing mistakes - which are the single biggest source of bugs. If you learn how to touch type, you will be able to write better working code, do everything faster and it will also impress your interviewer during your technical interviews. Here is a website that you can use to learn touch typing: https://www.typingclub.com/sportal/program-3.game
