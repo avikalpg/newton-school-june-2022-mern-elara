@@ -1,0 +1,21 @@
+<html>
+
+<body bgcolor="blue">
+	Hi, My name is Avikalp.
+</body>
+<Place>
+	<country>
+		India
+		<phone>91</phone>
+		<flag>tricolor with ashoka chakra</flag>
+		<flower>lotus</flower>
+		<animal>tiger</animal>
+	</country>
+	<State>Maharasthra</State>
+	<City>
+		Mumbai
+		<District>Thane</District>
+	</City>
+</Place>
+
+</html>
