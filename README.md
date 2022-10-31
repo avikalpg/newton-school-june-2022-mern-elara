@@ -13,6 +13,8 @@ But please try your best to understand the concepts in English itself. If I expl
 
 ## Contents
 1. [Lecture 1: Introduction to the internet, the WWW and web pages](Lecture01/)
+1. [Lecture 2: Code of conduct for the class and additional resources for getting a job and succeeding at it](Lecture02/)
+1. [Lecture 3: Introduction to HTML - Base tags](Lecture03/)
 
 ## Additional Resources
 
@@ -29,6 +31,8 @@ These are used to perform normal actions in your computer using the terminal (or
 
 ### Git
 Git is the single most important software that you must learn to be a software developer. Git is a version control system and a collaboration system which enables people to work on the same codebase for a long time. You should practice keeping every single work file version controlled in Git. You can see the basic git commands in [this link](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html#:~:text=%20%20%20%20Git%20task%20%20,clone%20username%40host%3A%2Fpath%2Fto%2Freposit%20...%20%2021%20more%20rows%20).
+
+To get started, you will have to download git in your computer. [Here is a link](https://git-scm.com/download) to do that.
 
 ### GitHub/GitLab/Gitae/BitBucket
 These websites make it easy to collaborate in teams using Git. [This blog](https://www.freecodecamp.org/news/how-to-use-basic-git-and-github-commands/) on FreeCodeCamp can help you get started with it.

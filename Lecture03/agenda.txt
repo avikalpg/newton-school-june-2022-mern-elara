@@ -1,0 +1,17 @@
+1. Base tags in HTML
+	- HTML 
+	- head 
+	- body
+
+	<questions>
+
+	- div and span
+	- p 
+	- comments
+	- whitespace
+	- attributes
+
+	<questions>
+
+HOMEWORK:
+	- Use inspect element on at least 5 popular websites and just look at their overall structure

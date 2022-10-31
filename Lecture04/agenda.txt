@@ -1,0 +1,6 @@
+1. Base tags
+	- meta
+		- name & content
+			- author, description, keywords
+		- charset
+		- viewport
