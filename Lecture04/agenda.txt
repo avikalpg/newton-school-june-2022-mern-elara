@@ -1,6 +1,16 @@
-1. Base tags
-	- meta
-		- name & content
-			- author, description, keywords
-		- charset
-		- viewport
+1. Meta tag
+	- name & content
+		- author, description, keywords
+	- charset
+	- viewport
+
+2. Layout
+	- header
+	- nav 
+	- section
+	- aside 
+	- footer
+
+Homework:
+	- Go through the meta tags of 10 popular website
+	- Search on the web about all the different 'name's used in those meta tags
