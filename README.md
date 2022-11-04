@@ -15,6 +15,9 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 1: Introduction to the internet, the WWW and web pages](Lecture01/)
 1. [Lecture 2: Code of conduct for the class and additional resources for getting a job and succeeding at it](Lecture02/)
 1. [Lecture 3: Introduction to HTML - Base tags](Lecture03/)
+1. [Lecture 4: HTML Meta tag and semantic layout tags](Lecture04/)
+1. [Lecture 5: HTML Lists: Unordered, Ordered, Description and Nesting](Lecture05/)
+1. [Lecture 6: HTML Media: Images, Audio, Video, IFrame](Lecture06/)
 
 ## Additional Resources
 

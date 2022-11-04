@@ -2,9 +2,3 @@
 	- unordered lists
 	- ordered lists
 	- description lists
-
-2. Media
-	- images
-	- videos
-	- audios
-	- iframe
