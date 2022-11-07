@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>HTML Tables</title>
+</head>
+
+<body>
+	<header>
+		<h1>HTML Tables</h1>
+	</header>
+	<main>
+		<table border="1">
+			<thead>
+				<th>Name</th>
+				<th>Points</th>
+				<th>XP</th>
+				<th>Level</th>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Avikalp</th>
+					<td>500</td>
+					<td>600</td>
+					<td rowspan="2">2</td>
+				</tr>
+				<tr>
+					<th>Archit</th>
+					<td>400</td>
+					<td>900</td>
+					<!-- <td>1</td> -->
+				</tr>
+				<tr>
+					<th>Naveen</th>
+					<td colspan="3">Not available</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<th>Total</th>
+				<td>900</td>
+				<td>1500</td>
+				<td>3</td>
+			</tfoot>
+			<caption>Gameplay scorecard</caption>
+		</table>
+	</main>
+</body>
+
+</html>

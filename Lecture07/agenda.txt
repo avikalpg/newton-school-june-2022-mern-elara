@@ -1,0 +1,13 @@
+1. HTML Tables
+	- basic tables 
+	- semantics
+
+2. HTML Forms
+	- Request and reponse in HTTP calls
+	- action and method 
+		- GET
+		- POST
+
+Homework:
+	- Go through the different input types listed in HTML documentation
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
