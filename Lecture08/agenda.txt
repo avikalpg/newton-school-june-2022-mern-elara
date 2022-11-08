@@ -24,3 +24,6 @@ HTML Forms
 		- required
 		- placeholder
 		- maxlength, minlength
+
+Homework:
+	1. (previous class) Try out all the different types of input in your form 
