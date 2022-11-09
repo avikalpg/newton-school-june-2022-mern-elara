@@ -1,0 +1,7 @@
+How to learn a new tag?
+	1. Open the documentation and search for the name of the tag
+	2. Look at the demo and see what is the effect on the output
+	3. Read the introduct text
+	4. Open the doc pages for all the other new tags used in the demo
+	5. Go through the descriptions of all the different attributes of the tag(s)
+	6. Write some HTML code on your local computer using that tag. And play around with different values for the attributes.

@@ -1,0 +1,9 @@
+1. Introduction to CSS
+	Cascading Style Sheets 
+	DOM: Document Object Model
+	- Inline vs Internal vs External CSS
+
+
+Homework:
+	Look at the styles of various elements in at least 5 popular websites
+	(And search on the Mozilla documentation about any CSS property that you discover)
