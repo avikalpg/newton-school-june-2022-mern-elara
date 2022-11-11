@@ -19,6 +19,9 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 5: HTML Lists: Unordered, Ordered, Description and Nesting](Lecture05/)
 1. [Lecture 6: HTML Media: Images, Audio, Video, IFrame](Lecture06/)
 1. [Lecture 7: HTML Tables and introduction to HTML forms](Lecture07/)
+1. [Lecture 8: HTML Forms](Lecture08/)
+1. [Lecture 9: Introduction to CSS](Lecture09/)
+1. [Lecture 10: CSS Selectors: basic, attributes & combinators](Lecture10/)
 
 ## Additional Resources
 

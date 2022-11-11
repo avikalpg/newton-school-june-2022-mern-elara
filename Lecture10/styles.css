@@ -1,0 +1,79 @@
+body {
+	background-color: aqua;
+	width: 70%;
+}
+
+/* selector {
+	property: value;
+	property2: value2;
+} */
+
+/* tag name selector */
+footer {
+	margin-top: 10vh;
+	color: gray;
+}
+
+p {
+	font-weight: bolder;
+	/* display: inline; */
+}
+
+/* id selector */
+#specified_div {
+	background-color: orange;
+}
+
+#specified_p {
+	background-color: #ffffff;
+}
+
+/* class selector */
+.short_p {
+	margin-left: 1in;
+}
+
+.hello {
+	color: blue;
+}
+
+/* universal selector */
+* {
+	margin: 5px;
+}
+
+/* selector attributes */
+p[title="Lorem"] {
+	font-family: cursive;
+}
+
+*[title] {
+	font-weight: lighter;
+}
+
+input[placeholder] {
+	padding: 10px;
+	background-color: chartreuse;
+}
+
+input[type="url"] {
+	display: block;
+}
+
+/* combinators: space: descendant, >: children, +: next sibling, ~: all siblings after */
+#section0 p {
+	border: solid 1px orangered;
+}
+
+section>form {
+	border: solid 10px yellow;
+}
+
+.short_p+p {
+	border: solid 10px green;
+}
+
+.short_p~* {
+	border: 5px solid rebeccapurple;
+	border-radius: 20px;
+}

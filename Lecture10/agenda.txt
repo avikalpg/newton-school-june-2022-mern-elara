@@ -1,0 +1,8 @@
+1. CSS
+	- Selectors
+		- basic selectors 
+			- id selectors
+			- class selector 
+			- universal selector 
+		- selector-attributes
+		- combinators 
