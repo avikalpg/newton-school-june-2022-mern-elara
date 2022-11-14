@@ -9,3 +9,4 @@
 Homework:
 	1. Explore all the remaining types of pseudo-classes
 	2. Explore all the remaining types of pseudo-elements
+	3. CSS Selector game
