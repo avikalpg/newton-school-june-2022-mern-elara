@@ -22,6 +22,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 8: HTML Forms](Lecture08/)
 1. [Lecture 9: Introduction to CSS](Lecture09/)
 1. [Lecture 10: CSS Selectors: basic, attributes & combinators](Lecture10/)
+1. [Lecture 11: CSS Selectors: pseudo-class & pseudo-elements. Colors and backgrounds](Lecture11/)
 
 ## Additional Resources
 

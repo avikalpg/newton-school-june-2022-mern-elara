@@ -1,0 +1,81 @@
+/* pseudo: false */
+
+p:hover {
+	background-color: rgb(0, 105, 155);
+}
+
+a:link {
+	color: #4410ff;
+}
+
+a:visited {
+	color: green;
+}
+
+.second-section {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+section:not(.second-section) {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li:nth-child(-3n+8) {
+	/* An+B: A is the step size and B is the offset*/
+	background-color: yellow;
+}
+
+section:nth-child(odd) {
+	/* An+B: A is the step size and B is the offset*/
+	color: blue;
+}
+
+button:active {
+	background-color: aquamarine;
+	border: 1px darkblue dotted;
+	border-radius: 10px;
+}
+
+p:active {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+*:focus {
+	border: red solid 5px
+}
+
+p:nth-of-type(3) {
+	background-color: silver;
+}
+
+li::marker {
+	font-weight: bold;
+}
+
+li::before {
+	content: ">>> ";
+}
+
+section::first-letter {
+	font-size: 50px;
+}
+
+p::first-line {
+	font-size: x-large;
+}
+
+#image-play {
+	height: 300px;
+	width: 800px;
+	/* background-image: url("resources/FavitesCoral.jpg"); */
+	background-image: url(https://th.bing.com/th/id/R.1395d1b17397018e6916784c283a14f2?rik=bmfmSW7odc2D1A&pid=ImgRaw&r=0);
+	background-size: contain;
+	background-position: bottom right;
+	background-repeat: repeat-y;
+	background-color: cornflowerblue;
+
+	border: 15px dashed yellow;
+	padding: 20px;
+	margin: 10px;
+	background-clip: border-box;
+}

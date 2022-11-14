@@ -1,0 +1,11 @@
+1. CSS Selectors
+	- pseudo classes
+	- pseudo elements
+
+2. CSS Styling
+	- Colors (text, background)
+	- Backgrounds
+
+Homework:
+	1. Explore all the remaining types of pseudo-classes
+	2. Explore all the remaining types of pseudo-elements
