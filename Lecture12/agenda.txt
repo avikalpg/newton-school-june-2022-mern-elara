@@ -1,0 +1,19 @@
+CSS Styling:
+	- Box Model
+	- Margin and Padding 
+	- Gradients
+		- linear-gradient
+			- colors (2, 3)
+			- direction
+				- angle
+			- gradient-start percentage
+			- repeating-linear-gradient
+		- radial-gradient
+			- colors (2, 3)
+			- closest-side, closest-corner, farthest-side, farthest-corner  -- NEEDS TO BE DISCUSSED AGAIN
+			- repeating-radial-gradient
+	- Shadows
+		- text-shadow: right down blur color;
+			- multiple Shadows
+		- box-shadow: right down blur color
+			- button hover example

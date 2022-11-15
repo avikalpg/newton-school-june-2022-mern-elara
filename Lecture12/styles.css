@@ -1,0 +1,76 @@
+h1 {
+	color: darkred;
+	text-shadow: 2px -1px 2px red, -2px 1px 1px aqua;
+	box-shadow: 0px 0px 2px orange;
+}
+
+section:first-child {
+	border: solid 10px black;
+	padding: 5px 20px 2px 0px;
+	padding-bottom: 6px;
+	margin-top: 12px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+section:nth-child(2) {
+	margin: 10px 0px;
+	height: 200px;
+	background-image: linear-gradient(to top right, red 20%, yellow);
+}
+
+section:nth-child(3) {
+	margin: 5px 10px 2px 0px;
+	height: 200px;
+	width: 200px;
+	background-image: linear-gradient(300deg, violet, indigo, blue, green, yellow, orange, red);
+}
+
+section:last-of-type {
+	height: 200px;
+	width: 300px;
+	background: repeating-linear-gradient(to left, green, cyan, yellow 20%)
+}
+
+#parent {
+	width: 80vw;
+	height: 50vh;
+	background-color: silver;
+}
+
+#child {
+	width: 80%;
+	height: 100%;
+	/* background-color: aqua; */
+	/* background-image: radial-gradient(circle at center, red, yellow 70%); */
+	/* background-image: radial-gradient(closest-side at 20%, red, yellow ); */
+	/* background-image: radial-gradient(farthest-side at 20%, red, yellow); */
+	/* background-image: radial-gradient(closest-corner at 20% 20%, red, yellow); */
+	background-image: repeating-radial-gradient(transparent, yellow 25%);
+}
+
+#div2 {
+	width: 200px;
+	height: 200px;
+	background-image: conic-gradient(from 30deg at 30% 20%, blue, red);
+	/* background-image: repeating-conic-gradient(blue, red 20%); */
+}
+
+button {
+	margin: 10px;
+	padding: 5px 10px;
+	background-image: linear-gradient(to right, greenyellow, yellow 70%);
+	border-radius: 2px;
+	border: 1px solid green;
+	color: darkgreen;
+	box-shadow: 1px 2px 2px gray;
+}
+
+button:active {
+	box-shadow: 1px 1px 2px silver;
+}
+
+button:hover {
+	text-shadow: 0px 0px 1px green;
+}
