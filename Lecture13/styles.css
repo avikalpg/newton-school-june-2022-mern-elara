@@ -1,0 +1,108 @@
+body {
+	width: 60%;
+	margin: auto;
+}
+
+#first-div>p:first-child {
+	color: green;
+	white-space: nowrap;
+	/* overflow: visible; */
+	overflow: hidden;
+	/* overflow: scroll; */
+	text-overflow: ellipsis;
+}
+
+#first-div>p:nth-child(2) {
+	word-wrap: break-word;
+	word-break: break-all;
+}
+
+#first-div>p:last-child {
+	color: orangered;
+	word-wrap: break-word;
+}
+
+#special-span {
+	writing-mode: vertical-lr;
+}
+
+/* animation css from here  */
+@keyframes first-animation {
+	from {
+		background-color: green;
+	}
+
+	to {
+		background-color: aqua;
+	}
+}
+
+#second-div>p:first-child {
+	background-color: beige;
+	padding: 10px 2px;
+	border: solid brown 1px;
+	animation-name: first-animation;
+	animation-duration: 1s;
+	animation-delay: 1s;
+	animation-fill-mode: both;
+}
+
+#one-word {
+	animation-name: first-animation;
+	animation-duration: 1s;
+}
+
+#second-div>p:nth-child(2) {
+	animation-name: first-animation;
+	animation-duration: 2s;
+	/* animation-iteration-count: 4; */
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes second-animation {
+	0% {
+		left: 0px;
+		top: 0px;
+		background-color: skyblue;
+	}
+
+	25% {
+		left: 200px;
+		top: 0px;
+		background-color: yellow;
+	}
+
+	50% {
+		left: 200px;
+		top: 200px;
+		background-color: yellowgreen;
+	}
+
+	75% {
+		left: 0px;
+		top: 200px;
+		background-color: orange;
+	}
+
+	100% {
+		left: 0px;
+		top: 0px;
+		background-color: skyblue;
+	}
+}
+
+#box {
+	width: 100px;
+	height: 100px;
+	border: solid black 1px;
+	border-radius: 20px;
+	background-color: skyblue;
+	margin-bottom: 300px;
+	position: relative;
+	animation-name: second-animation;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	/* animation-play-state: paused; */
+}

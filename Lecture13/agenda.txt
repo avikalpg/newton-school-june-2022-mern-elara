@@ -1,0 +1,20 @@
+1. CSS text-effects
+	- white-space
+	- overflow
+	- text-overflow
+	- word-wrap
+	- word-break
+	- writing-mode 
+
+2. Animations
+	- @keyframes
+		- from & to
+		- percentage
+	- animation-name
+	- animation-duration
+	- animation-delay
+	- animation-fill-mode 
+	- animation-iteration-count
+	- animation-direction
+	- animation-timing-function
+	- animation-play-state

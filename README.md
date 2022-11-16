@@ -24,6 +24,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 10: CSS Selectors: basic, attributes & combinators](Lecture10/)
 1. [Lecture 11: CSS Selectors: pseudo-class & pseudo-elements. Colors and backgrounds](Lecture11/)
 1. [Lecture 12: CSS Styling: Box model, margin, border, padding, gradients & shadows](Lecture12/)
+1. [Lecture 13: CSS Styling: text-effects and CSS animations](Lecture13/)
 
 ## Additional Resources
 
