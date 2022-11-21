@@ -1,0 +1,32 @@
+1. Responsiveness
+	- Example: Facebook is responsive, Wikipedia is not responsive
+	- Media Queries
+		- add the meta tag (name="viewport" and content="width: device-width")
+		- screen, print, speech, all
+		- max-width, min-width 
+		- orientation
+		- ordering the CSS
+		
+	- Flexbox
+		- Container
+			- flex-direction 
+			- flex-wrap
+			- flex-flow
+			- justify-content :: flex-start, center, flex-end
+			- align-content 
+			- justify-items 
+			- align-items
+		- Items 
+			- order 
+			- flex-grow
+			- flex-shrink
+			- flex-basis 
+			- flex
+			- align-self
+
+Homework:
+	* Practice flexbox 
+		- Create a google-photos type of layout with many different boxes of the same height and 
+		different widths arranged horizontally (you don't need to use actual images. Just boxes.)
+		- Create a webpage with multiple boxes stacked on top of each other, and they overflow to 
+		the next line if we reduce the height of the page.
