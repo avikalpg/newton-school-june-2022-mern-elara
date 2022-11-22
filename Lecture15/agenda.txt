@@ -1,0 +1,14 @@
+1. Grid
+	- container 
+		- grid-template (size and fraction, repeat)
+		- grid-auto-rows (minmax)
+		- grid-gap
+		- grid-template-areas
+	- items
+		- grid-column-start & grid-column-end
+		- grid-column 
+			- /
+			- span
+
+	- same as Flexbox
+		- justify & align 

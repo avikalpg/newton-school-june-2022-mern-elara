@@ -1,0 +1,73 @@
+.container>* {
+	border: 1px green dotted;
+}
+
+.content>* {
+	border: 1px peru dashed;
+}
+
+.site-logo {
+	width: 100%;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 150px 1fr;
+	grid-template-rows: 30px 1fr;
+	grid-template-areas:
+		"nav appbar"
+		"nav main";
+	gap: 10px;
+}
+
+.nav-pane {
+	grid-area: nav;
+	padding: 10px;
+}
+
+.app-bar {
+	grid-area: appbar;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.app-bar>* {
+	margin: 5px 10px;
+}
+
+.content {
+	grid-area: main;
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	grid-template-rows: minmax(30px, auto);
+	grid-auto-rows: minmax(50px, auto);
+	gap: 10px;
+}
+
+.content header {
+	grid-column: span 2;
+}
+
+.content aside {
+	color: purple;
+	grid-column: 2;
+	grid-row: span 4;
+}
+
+.content .table-of-contents {
+	border: black 1px solid;
+	background-color: aliceblue;
+}
+
+.image-box {
+	border: 1px solid grey;
+	background-color: beige;
+	padding: 10px;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.footer {
+	font-size: xx-small;
+}
