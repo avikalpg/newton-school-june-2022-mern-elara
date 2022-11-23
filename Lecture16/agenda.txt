@@ -1,0 +1,19 @@
+Introduction to JavaScript
+	- History
+	- Where to use it 
+		- Browser
+		- Terminal
+
+JS Basics:
+	- variables
+	- constants
+	- data types
+		- primitives
+		- object
+			- arrays
+			- functions
+
+Homework:
+	1. Read this blog and experiment with the declaration types: https://avikalpgupta.medium.com/var-let-const-and-undeclared-variables-in-javascript-32d3c72442ba
+	2. Read about the different data types in JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#objects
+	
