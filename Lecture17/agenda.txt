@@ -1,0 +1,9 @@
+JavaScript
+	- Data types 
+		- primitives
+		- objects
+			- arrays
+			- functions 
+		- parseInt / parseFloat
+		- return 
+		- type coersion
