@@ -28,6 +28,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 14: CSS Responsiveness: Media queries and Flexbox](Lecture14/)
 1. [Lecture 15: CSS Responsiveness: Grid](Lecture15/)
 1. [Lecture 16: JavaScript introduction](Lecture16/)
+1. [Lecture 18: JavaScript data types](Lecture18/)
 
 ## Additional Resources
 
