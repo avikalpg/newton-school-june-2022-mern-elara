@@ -1,0 +1,16 @@
+JavaScript
+	- Execution Context and Call Stack
+	- data types
+		- objects
+			- arrays
+			- functions
+		- parseInt / parseFloat
+		- return
+
+	<!-- NEXT CLASS -->
+
+	- JS Type Coercion
+	- JS Operators
+	- Operator Precedence
+	- Bitwise operator
+	- Logical operators with Non booleans
