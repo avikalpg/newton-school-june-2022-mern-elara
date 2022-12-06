@@ -1,0 +1,9 @@
+- JS Type Coercion
+- JS Operators
+	- Operator Precedence
+	- Bitwise operator
+	- Logical operators with Non booleans
+	- JS Logical Operators
+	- JS Equality operators
+	- Comparison operators
+	- JS Ternary operator
