@@ -1,0 +1,15 @@
+JS Operators:
+	- Logical operators 
+	- Equality operators 
+	- Comparison operators 
+	- Ternary operators 
+
+JS Control Flow
+	- if else 
+	- switch case 
+	- break and continue
+	- for loop
+	- while loop 
+	- do while loop 
+	- infinite loops 
+	- for in 
