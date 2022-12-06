@@ -2,13 +2,13 @@
 // mat: contains the input matrix
 function printAntiClockWise(mat) {
 	// Your code here
-	let anticlock = [];
 	let N = mat.length;
 	let i = 0;
 	let j = 0;
-
-	while (anticlock.length < N ** 2) {
-		anticlock.push(mat[i][j]);
+	let n = N ** 2;
+	while (n > 0) {
+		process.stdout.write(mat[i][j] + " ");
+		n--;
 		if ((i + 1 == j) && (j < N / 2)) {
 			i++;
 		}
@@ -25,10 +25,9 @@ function printAntiClockWise(mat) {
 			j--;
 		}
 		else {
-			if (anticlock.length != N ** 2)
+			if (n != 0)
 				console.error("Unexpected", i, j, N - 1);
 			break;
 		}
 	}
-	console.log(...anticlock);
 }
