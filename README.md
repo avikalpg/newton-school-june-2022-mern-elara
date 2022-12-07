@@ -29,6 +29,10 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 15: CSS Responsiveness: Grid](Lecture15/)
 1. [Lecture 16: JavaScript introduction](Lecture16/)
 1. [Lecture 18: JavaScript data types](Lecture18/)
+1. [Lecture 19: JavaScript Execution Context, Call stack and data types](Lecture19/)
+1. [Lecture 20: JavaScript Type coercion & operators](Lecture20/)
+1. [Lecture 21: JavaScript Operators & Control Flow](Lecture21/)
+1. [Lecture 22: JavaScript Functions: Part 1](Lecture22/)
 
 ## Additional Resources
 
