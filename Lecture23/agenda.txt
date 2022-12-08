@@ -1,0 +1,15 @@
+JavaScript Functions:
+	- var vs const vs let (scope)
+	- JS default parameters
+	- anonymous functions, named functions expression
+	- diff between params and args 
+	- JS Function Declaration vs Expression 
+	- JS Hoisting
+	- Callback function 
+
+	<-- Next class -->
+	- JS Rest Operator 
+	- JS try catch 
+	- JS Lexical Environment
+	- First class functions 
+	- JS higher order functions 

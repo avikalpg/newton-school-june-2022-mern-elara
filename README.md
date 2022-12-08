@@ -33,6 +33,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 20: JavaScript Type coercion & operators](Lecture20/)
 1. [Lecture 21: JavaScript Operators & Control Flow](Lecture21/)
 1. [Lecture 22: JavaScript Functions: Part 1](Lecture22/)
+1. [Lecture 23: JavaScript Functions: Part 2 (anonymous functions, hoisting, callback)](Lecture23/)
 
 ## Additional Resources
 
