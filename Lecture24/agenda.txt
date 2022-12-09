@@ -1,0 +1,20 @@
+JS Functions:
+	- JS Rest Operator 
+	- JS try catch 
+	- JS Lexical Environment
+	- First class functions 
+	- JS higher order functions 
+
+
+<--next class-->
+JS array
+	- Properties of array 
+		- length
+		- concat
+		- push, pop 
+		- reverse 
+		- shift, unshift 
+		- toString 
+		- slice splice 
+		- join 
+		- includes, indexOf, lastIndexOf 

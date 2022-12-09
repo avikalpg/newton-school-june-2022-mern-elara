@@ -1,0 +1,11 @@
+JS array
+	- Properties of array 
+		- length
+		- concat
+		- push, pop 
+		- reverse 
+		- shift, unshift 
+		- toString 
+		- slice splice 
+		- join 
+		- includes, indexOf, lastIndexOf 

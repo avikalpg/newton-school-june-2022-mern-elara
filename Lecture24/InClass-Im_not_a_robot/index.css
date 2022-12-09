@@ -1,0 +1,9 @@
+.image {
+	width: 100px;
+	height: 120px;
+	border: solid 1px black;
+}
+
+.clicked {
+	border: 5px orange solid;
+}
