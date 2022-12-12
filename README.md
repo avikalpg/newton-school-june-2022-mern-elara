@@ -35,6 +35,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 22: JavaScript Functions: Part 1](Lecture22/)
 1. [Lecture 23: JavaScript Functions: Part 2 (anonymous functions, hoisting, callback)](Lecture23/)
 1. [Lecture 24: JavaScript Functions: Part 3 (rest operator, try catch, lexical environment, first class functions, higher order functions)](Lecture24/)
+1. [Lecture 25: JavaScript Arrays](Lecture25/)
 
 ## Additional Resources
 

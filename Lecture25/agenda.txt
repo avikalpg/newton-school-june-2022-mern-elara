@@ -1,11 +1,23 @@
 JS array
-	- Properties of array 
+	- Properties of array
 		- length
 		- concat
-		- push, pop 
-		- reverse 
-		- shift, unshift 
-		- toString 
-		- slice splice 
-		- join 
-		- includes, indexOf, lastIndexOf 
+		- push, pop
+		- reverse
+		- shift, unshift
+		- toString
+		- slice splice
+		- join
+		- includes, indexOf, lastIndexOf
+	- Arrow functions
+	- spread operator
+	- arrow loop methods
+		- map
+		- forEach
+
+	<-- next class -->
+		- filter
+		- reduce
+		- some
+		- every
+		- find
