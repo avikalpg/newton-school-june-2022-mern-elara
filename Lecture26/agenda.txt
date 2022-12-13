@@ -1,0 +1,15 @@
+JS Arrays:
+	- filter
+	- reduce
+	- some
+	- every
+	- find
+
+JS Value vs reference types 
+
+DOM Manipulation
+		- add elements 
+		- remove elements 
+		- replace elements 
+	- DOM Model 
+	- DOM Selectors 
