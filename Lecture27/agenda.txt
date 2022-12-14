@@ -1,0 +1,7 @@
+JS DOM Manipulation:
+	- revision
+		- Selectors 
+		- creating elements
+	- DOM Events
+	- Event bubbling, capturing and propagation
+

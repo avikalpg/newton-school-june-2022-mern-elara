@@ -37,6 +37,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 24: JavaScript Functions: Part 3 (rest operator, try catch, lexical environment, first class functions, higher order functions)](Lecture24/)
 1. [Lecture 25: JavaScript Arrays](Lecture25/)
 1. [Lecture 26: JavaScript Arrays (loop methods) and introduction to DOM Manipulation](Lecture26/)
+1. [Lecture 27: JavaScript DOM Manipulation: Events, propagation, bubbling and capture](Lecture27/)
 
 ## Additional Resources
 
