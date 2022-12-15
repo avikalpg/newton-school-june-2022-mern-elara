@@ -8,10 +8,12 @@ function addNDivs(n) {
 	}
 }
 
-// addNDivs(3);
+addNDivs(5);
 
-const body_element = document.getElementsByTagName("body")[0];
-body_element.addEventListener('scroll', (event) => {
-	console.log("Scroll end triggered");
-	addNDivs(3);
+window.addEventListener('scroll', (event) => {
+	const y = window.scrollY + window.outerHeight;
+	let loadHeight = document.body.scrollHeight - (0.5 * window.innerHeight);
+	if (y >= loadHeight) {
+		addNDivs(3);
+	}
 });
