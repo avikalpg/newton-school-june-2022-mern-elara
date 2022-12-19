@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Converter</title>
+	<style>
+		/* css code goes here */
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+
+		.grid-item {
+			border: solid 1px black;
+			padding: 10px;
+		}
+
+		button {
+			margin: 10px;
+		}
+
+		select {
+			margin: 10px 0px;
+			display: block;
+			padding: 5px;
+		}
+	</style>
+	<script src="index.js" async></script>
+</head>
+
+<body>
+	<h1>Converter</h1>
+	<div class="grid-container">
+		<div class="grid-item" id="from-div">
+			<h3 class="from">From</h3>
+			<select id="from-type">
+				<option value="dec">Decimal</option>
+				<option value="hex">Hexadecimal</option>
+				<option value="oct">Octal</option>
+				<option value="bin">Binary</option>
+			</select>
+			<textarea id="from"></textarea>
+		</div>
+		<div class="grid-item" id="action-div">
+			<button type="Swap" onclick="swap()">Swap</button><br>
+			<button type="Convert" onclick="convert()">Convert</button>
+		</div>
+		<div class="grid-item" id="to-div">
+			<h3 class="to">To</h3>
+			<select id="to-type">
+				<option value="dec">Decimal</option>
+				<option value="hex">Hexadecimal</option>
+				<option value="oct">Octal</option>
+				<option value="bin">Binary</option>
+			</select>
+			<textarea id="to" disabled></textarea>
+		</div>
+	</div>
+</body>
+
+</html>
