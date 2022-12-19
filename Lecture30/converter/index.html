@@ -35,21 +35,21 @@
 	<h1>Converter</h1>
 	<div class="grid-container">
 		<div class="grid-item" id="from-div">
-			<h3 class="from">From</h3>
+			<label for="from-type">From</label>
 			<select id="from-type">
 				<option value="dec">Decimal</option>
 				<option value="hex">Hexadecimal</option>
 				<option value="oct">Octal</option>
 				<option value="bin">Binary</option>
 			</select>
-			<textarea id="from"></textarea>
+			<input id="from"></input>
 		</div>
 		<div class="grid-item" id="action-div">
 			<button type="Swap" onclick="swap()">Swap</button><br>
 			<button type="Convert" onclick="convert()">Convert</button>
 		</div>
 		<div class="grid-item" id="to-div">
-			<h3 class="to">To</h3>
+			<label for="to-type">To</label>
 			<select id="to-type">
 				<option value="dec">Decimal</option>
 				<option value="hex">Hexadecimal</option>
