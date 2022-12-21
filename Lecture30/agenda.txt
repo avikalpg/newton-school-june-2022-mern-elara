@@ -1,4 +1,1 @@
 Solving assignments
-
-High level overview of Promises
-Fetch

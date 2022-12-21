@@ -1,0 +1,7 @@
+Prototype
+	- property descriptor
+	- constructor Prototype
+		- ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+	- iterating instance and Prototype members
+
+Closure

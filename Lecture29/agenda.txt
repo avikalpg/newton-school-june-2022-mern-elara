@@ -1,9 +1,7 @@
 JS Prototypes
 	- JS Multilevel inheritance
-	- Property Descriptors
-	- Constructor Prototypes 
-	- Prototype vs instance member 
-	- Iterating Instance and Prototype Members 
+	- Prototype vs instance member
+	- Iterating Instance and Prototype Members
 	- Avoid Extending the Built-in Objects
 
 https://my.newtonschool.co/playground/markup/af75srdqmwgk/

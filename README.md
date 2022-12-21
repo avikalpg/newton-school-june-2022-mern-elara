@@ -38,6 +38,12 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 25: JavaScript Arrays](Lecture25/)
 1. [Lecture 26: JavaScript Arrays (loop methods) and introduction to DOM Manipulation](Lecture26/)
 1. [Lecture 27: JavaScript DOM Manipulation: Events, propagation, bubbling and capture](Lecture27/)
+1. [Lecture 28: JS Prototypes: Introduction & Doubt solving](Lecture28/)
+1. [Lecture 29: JS Prototypes: Multilevel inheritance, method overriding, super, creating own prototypes & Doubt solving](Lecture29/)
+1. [Lecture 30: Assignments](Lecture30/)
+1. [Lecture 31: JS Prototypes: Mixins, Polymorphism, Prototype inheritance](Lecture31/)
+1. [Lecture 32: JavaScript Prototypes: property descriptor, constructor prototype, iterating over instance and prototype members](Lecture32/)
+
 
 ## Additional Resources
 
