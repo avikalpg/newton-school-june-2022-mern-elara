@@ -1,0 +1,15 @@
+https://my.newtonschool.co/playground/code/wmvojp6zumzd/
+
+JavaScript Advanced
+	- Closure
+	- ES6 version
+		- ES6 classes
+		- ES6 'this' keyword
+		- JS Static methods
+		- JS Destructuring assignment
+		- ES6 Getters and Setters
+		- ES6 inheritance
+		- ES6 Method Overriding
+		- Private Members using symbol
+		- Private Members using Weakmaps
+	- Scoping and Scope chaining
