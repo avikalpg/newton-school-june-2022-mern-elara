@@ -6,10 +6,12 @@ JavaScript Advanced
 		- ES6 classes
 		- ES6 'this' keyword
 		- JS Static methods
-		- JS Destructuring assignment
-		- ES6 Getters and Setters
+		- Private Members using symbol
 		- ES6 inheritance
 		- ES6 Method Overriding
-		- Private Members using symbol
+
+	<-- Next class -->
+		- JS Destructuring assignment
+		- ES6 Getters and Setters
 		- Private Members using Weakmaps
 	- Scoping and Scope chaining
