@@ -44,6 +44,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 31: JS Prototypes: Mixins, Polymorphism, Prototype inheritance](Lecture31/)
 1. [Lecture 32: JavaScript Prototypes: property descriptor, constructor prototype, iterating over instance and prototype members](Lecture32/)
 1. [Lecture 33: JavaScript: Closure, private methods & properties, ES6 class, this, static and private properties & methods](Lecture33/)
+1. [Lecture 34: JS Destructuring Assignment & doubt solving (JS calculator)](Lecture34/)
 
 ## Additional Resources
 

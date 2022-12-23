@@ -1,0 +1,10 @@
+
+Assignments:
+	- https://my.newtonschool.co/playground/code/bs4rnc4fw9ev/
+	- https://my.newtonschool.co/playground/markup/b59073kpb37u/
+
+- JS Destructuring assignment
+
+- Project work
+	Choose an API from this: https://rapidapi.com/collection/list-of-free-apis
+	and then build a website based on the information available at that API
