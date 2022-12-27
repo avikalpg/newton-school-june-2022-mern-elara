@@ -45,6 +45,8 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 32: JavaScript Prototypes: property descriptor, constructor prototype, iterating over instance and prototype members](Lecture32/)
 1. [Lecture 33: JavaScript: Closure, private methods & properties, ES6 class, this, static and private properties & methods](Lecture33/)
 1. [Lecture 34: JS Destructuring Assignment & doubt solving (JS calculator)](Lecture34/)
+1. [Lecture 35: Assignments and doubts session](#)
+1. [Lecture 36: WeakMaps and emulating private members using WeakMaps](Lecture36/)
 
 ## Additional Resources
 
