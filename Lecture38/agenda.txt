@@ -1,0 +1,7 @@
+Topics for today:
+	- JSON
+	- JavaScript Asynchronous programming
+	- AJAX introduction
+	- setTimeout
+	- setInterval
+	- JS fetch

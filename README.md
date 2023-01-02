@@ -47,6 +47,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 34: JS Destructuring Assignment & doubt solving (JS calculator)](Lecture34/)
 1. [Lecture 35: Assignments and doubts session](#)
 1. [Lecture 36: WeakMaps and emulating private members using WeakMaps](Lecture36/)
+1. [Lecture 38: Asynchronous programming in JavaScript](Lecture38/)
 
 ## Additional Resources
 
