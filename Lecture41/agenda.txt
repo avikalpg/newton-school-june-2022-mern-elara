@@ -1,0 +1,4 @@
+Asynchronous JS:
+	- Handling multiple promises
+	- AJAX introduction
+	- fetch
