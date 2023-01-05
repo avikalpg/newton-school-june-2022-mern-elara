@@ -48,6 +48,8 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 35: Assignments and doubts session](#)
 1. [Lecture 36: WeakMaps and emulating private members using WeakMaps](Lecture36/)
 1. [Lecture 38: Asynchronous programming in JavaScript](Lecture38/)
+1. [Lecture 40: Shallow copy vs deep copy, setTimeout, setInterval, Promises](Lecture40/)
+1. [Lecture 41: Try-Catch, Promise methods, multiple promises, Ajax and Fetch](Lecture41/)
 
 ## Additional Resources
 

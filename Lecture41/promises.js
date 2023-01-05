@@ -39,16 +39,16 @@ promise_obj.then(val => {
 })
 console.log("after the promise");
 
-// const timeout1 = setTimeout(() => { console.log("Print after timeout") }, 2000);
-// console.log(typeof timeout1, timeout1);
-// const timeout2 = setTimeout(() => { }, 1000);
-// console.log(timeout2);
-// const interval1 = setInterval(() => {
-// 	b--;
-// 	console.debug(".")
-// 	if (b <= 0) clearInterval(interval1);
-// }, 1000);
-// console.log(interval1);
+const timeout1 = setTimeout(() => { console.log("Print after timeout") }, 2000);
+console.log(typeof timeout1, timeout1);
+const timeout2 = setTimeout(() => { }, 1000);
+console.log(timeout2);
+const interval1 = setInterval(() => {
+	b--;
+	console.debug(".")
+	if (b <= 0) clearInterval(interval1);
+}, 1000);
+console.log(interval1);
 
 // multiple promises
 const promise1 = new Promise((res, rej) => {
