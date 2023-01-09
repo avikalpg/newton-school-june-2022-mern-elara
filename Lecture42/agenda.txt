@@ -1,0 +1,2 @@
+1. Axios
+2. Currying
