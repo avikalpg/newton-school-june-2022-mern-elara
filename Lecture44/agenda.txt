@@ -1,0 +1,13 @@
+- Using Lodash using the CDN link
+
+- Calling a module
+- Creating a Node:HTTP server
+- Using code from other files in a JS file
+
+- Install NodeJS
+- Check for NPM
+- Create new project using 'npm init'
+- Installing dependencies using 'npm install'
+	- axios
+	- lodash
+	- express

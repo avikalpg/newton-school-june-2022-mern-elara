@@ -1,0 +1,3 @@
+Currying
+
+Link to Lodash: https://www.jsdelivr.com/package/npm/lodash
