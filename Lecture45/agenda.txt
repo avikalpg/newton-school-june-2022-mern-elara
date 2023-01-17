@@ -1,0 +1,9 @@
+We discussed about working an a project.
+
+Topics covered:
+1. Thinking of the project in terms of use-cases
+2. Dividing the use-cases based on the persona of the user
+3. Creating hand-drawn wireframes of the different screens
+4. Understanding the key entities (assets and actors) of the application and creating a database design
+	4.1. Using localStorage as a database for now
+5. Converting the designs (or hand-drawn wireframes) to a web-app using HTML/CSS/JS.
