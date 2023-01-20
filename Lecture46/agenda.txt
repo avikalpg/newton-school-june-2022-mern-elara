@@ -1,0 +1,3 @@
+- JS Changing this (call, bind, apply)
+
+- How JS works with example (event loop, call stack, heap)
