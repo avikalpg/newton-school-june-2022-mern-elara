@@ -1,0 +1,6 @@
+How JS works
+	- event loop
+	- call stack
+	- heap
+
+	
