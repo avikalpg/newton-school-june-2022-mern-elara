@@ -1,0 +1,39 @@
+/* * {
+	border: red solid 1px;
+} */
+
+nav {
+	display: flex;
+	background-color: blue;
+	padding: 12px 16px;
+	color: white;
+}
+
+.logo {
+	flex-grow: 1;
+}
+
+nav>ul {
+	display: flex;
+}
+
+#loader {
+	font-size: x-large;
+	font-weight: bold;
+	text-align: center;
+}
+
+.movie-img-wrapper {
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+}
+
+.movie-holder {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.movie-holder>a {
+	flex-grow: 1;
+}
