@@ -1,0 +1,8 @@
+Happy Republic Day 
+
+= Today, we are just going to complete the remaining part of yesterday's project 
+	- We learnt how a `git submodule` is pulled into a clone of a repository
+	- We completed the implementation
+	- We learnt how to host the project using Github Pages
+		Link: https://avikalpg.github.io/movie-booking-example/
+	
