@@ -1,0 +1,5 @@
+Getting started with ReactJS
+
+1. example01: Created using `npx create-react-app example01`
+2. example02: Created using `npm init` and then `npm install react react-dom` to install react in the node project 
+3. example03: Created an index.html file and sources the ReactJS scripts in order to create React enabled elements in it
