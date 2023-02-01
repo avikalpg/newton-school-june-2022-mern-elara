@@ -51,6 +51,7 @@ But please try your best to understand the concepts in English itself. If I expl
 1. [Lecture 40: Shallow copy vs deep copy, setTimeout, setInterval, Promises](Lecture40/)
 1. [Lecture 41: Try-Catch, Promise methods, multiple promises, Ajax and Fetch](Lecture41/)
 1. [Lecture 51: ReactJS: Introduction](Lecture51/)
+1. [Lecture 55: Modularity in JavaScript (CommonJS vs ES6), Babel revision and WebPack](Lecture55)
 
 ## Additional Resources
 
