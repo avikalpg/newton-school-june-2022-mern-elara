@@ -1,0 +1,17 @@
+small case:
+we are human being
+
+CAPITAL CASE:
+WE ARE HUMAN BEINGS
+
+Sentence case:
+We are human beings
+
+snake_case:
+we_are_human_beings
+
+camelCase:
+weAreHumanBeings
+
+PascalCase:
+WeAreHumanBeings
