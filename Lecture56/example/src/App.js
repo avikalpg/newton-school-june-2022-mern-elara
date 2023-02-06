@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Form from './components/form';
+import Age from './components/age';
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <Form />
+      <Age />
       <Footer name="Newton" />
     </div>
   );

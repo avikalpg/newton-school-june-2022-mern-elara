@@ -1,0 +1,11 @@
+.bg-aqua {
+	background-color: aqua;
+	border: 1px dotted dodgerblue;
+	padding: 5px;
+}
+
+.highlight {
+	background-color: beige;
+	border: 2px solid brown;
+	padding: 10px;
+}
