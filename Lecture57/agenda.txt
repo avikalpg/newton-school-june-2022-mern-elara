@@ -1,0 +1,17 @@
+ReactJS Lifecycle:
+	1. Initialization
+		constructor(props)
+		render()
+
+	2. Mounting
+		componentDidMount()
+		render()
+
+	3. Updation <- setState() or due to change of props 
+		render()
+		componentDidUpdate()
+
+	4. Unmounting
+		componentWillUnmount()
+
+This diagram shows this very well: https://www.codewhoop.com/assets/img/react-lifecycle.25a1adde.png
