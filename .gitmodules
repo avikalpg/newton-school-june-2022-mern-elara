@@ -1,3 +1,6 @@
 [submodule "Lecture49/movie-booking-example"]
 	path = Lecture49/movie-booking-example
 	url = git@github.com:avikalpg/movie-booking-example.git
+[submodule "Lecture59/Paint-App-Colour-Picker---ReactJS-How-React-Works-Building-a-First-Custom-Fun---ge0n8rs10ev8"]
+	path = Lecture59/Paint-App-Colour-Picker---ReactJS-How-React-Works-Building-a-First-Custom-Fun---ge0n8rs10ev8
+	url = git@github.com:AdityaRajput732/Paint-App-Colour-Picker---ReactJS-How-React-Works-Building-a-First-Custom-Fun---ge0n8rs10ev8.git
