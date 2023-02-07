@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Form from './components/form';
 import Age from './components/age';
+import StudentSubject from './components/student_subject';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       </header>
       <Form />
       <Age />
+      <StudentSubject />
       <Footer name="Newton" />
     </div>
   );

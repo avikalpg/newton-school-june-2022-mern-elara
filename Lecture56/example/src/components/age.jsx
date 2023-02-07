@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './styles.module.css'
+import styles from './styles.module.css';
 
 function Age() {
 	const [age, setAge] = React.useState(0);
